@@ -1,4 +1,4 @@
 
   void main(){
-  print ("Tempos difíceis geram pessoas fortes");
+  print ("Você so vence amanhã se não desistir hoje");
 }
